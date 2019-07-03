@@ -1,6 +1,6 @@
 # todo-list
 
-> A Vue.js project
+> Lista de tarega com Vue.js project
 
 ## Build Setup
 
